@@ -1,0 +1,21 @@
+body
+{
+    background-color: cornsilk ;
+}
+#score
+{
+    margin: 10px;
+    font-size: 15px;
+}
+
+#time
+{
+    margin: 10px;
+    float: right;
+    font-size: 15px;
+}
+
+#sketch_name
+{
+    color: crimson;
+}
